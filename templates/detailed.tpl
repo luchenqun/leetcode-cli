@@ -2,6 +2,7 @@
 <%= comment.line %> [<%= id %>] <%= name %>
 <%= comment.line %>
 <%= comment.line %> <%= link %>
+<%= comment.line %> <%= discuss %>
 <%= comment.line %>
 <%= comment.line %> <%= category %>
 <%= comment.line %> <%= level %> (<%= percent %>%)
